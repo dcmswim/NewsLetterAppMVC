@@ -5,7 +5,7 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="95ec30e4540c4ed5b6f84728eae9039d" Name="Diagram1">
-        <EntityTypeShape EntityType="NewsletterModel1.SignUp" Width="1.5" PointX="0.875" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NewsletterModel1.SignUp" Width="1.5" PointX="1" PointY="0.625" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
